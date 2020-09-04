@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Minecraft Online Client \([![GitHub version](https://badge.fury.io/gh/nature174%2Fminecraft-online-client@2x.png)](https://badge.fury.io/gh/nature174%2Fminecraft-online-client)\)
 
 You can use the [editor on GitHub](https://github.com/nature174/minecraft-online-client/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
